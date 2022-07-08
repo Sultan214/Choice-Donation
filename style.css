@@ -1,0 +1,289 @@
+body{font-family: 'Merriweather', serif;
+	margin: 0;
+
+}
+p{font-size:18px;padding:5px 0;margin:0;}
+
+section {
+	margin-bottom: 100px;
+  }
+  h1 {
+	font-size: 60px;
+	margin: 0;
+	font-weight: 800;
+	padding: 10px 0;
+	color: black;
+  }
+  p {
+	font-size: 15px;
+	padding: 5px 0;
+	margin: 0;
+  }
+  .top-banner {
+	width: 100%;
+	height: 600px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	background-color: rgba(30, 29, 29, 0.689);
+	text-align: center;
+	padding-top: 130px;
+  }
+  #head {
+	width: 100%;
+	height: 600px;
+	background-image: url(images/donation13.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	overflow: hidden;
+	position: relative;
+  }
+  #head h1 {
+	color: white;
+	padding: 0 350px;
+	padding-bottom: 20px;
+  }
+  #head p {
+	color: white;
+	font-size: 30px;
+  }
+  .donate {
+	display: inline-block;
+	margin-top: 25px;
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: 800;
+	padding: 10px 25px;
+	background-color: blue;
+	color: white;
+	border-radius: 5px;
+  }
+  
+  section {
+	margin-bottom: 100px;
+  }
+  h1 {
+	font-size: 60px;
+	margin: 0;
+	font-weight: 800;
+	padding: 10px 0;
+	color: black;
+  }
+  p {
+	font-size: 15px;
+	padding: 5px 0;
+	margin: 0;
+  }
+  .donate-button {
+	display: inline-block;
+	margin-top: 25px;
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: 800;
+	padding: 10px 25px;
+	background-color: blue;
+	color: white;
+	border-radius: 5px;
+  }
+  #Top {
+	text-align: center;}
+  
+  .donate-money {
+	display: flex;
+	width: 70%;
+	margin: 50px auto;
+	justify-content: space-evenly;
+  }
+  .text {
+	color: #4169E1;
+	margin-bottom: 2%;
+  }
+  .donate-money p {
+	width: 20%;
+	padding: 50px 0;
+	background-color: white;
+	font-weight: 800;
+	font-size: 40px;
+	text-align: center;
+  }
+  #style-money {
+	color: tomato;
+	border: 5px double skyblue;
+	background-color: white;
+  }
+ 
+  section {
+	margin-bottom: 100px;
+  }
+  h1 {
+	font-size: 60px;
+	margin: 0;
+	font-weight: 800;
+	padding: 10px 0;
+	color: black;
+  }
+  p {
+	font-size: 15px;
+	padding: 5px 0;
+	margin: 0;
+  }
+  #our-donate {
+	text-align: center;
+  }
+  .donate-options {
+	width: 80%;
+	margin: 40px auto;
+	display: flex;
+	justify-content: space-between;
+  }
+  .option h3 {
+	font-weight: bold;
+  }
+  .option {
+	width: 25%;
+	padding: 5% 2%;
+	text-align: start;
+  }
+  .option img {
+	padding: 0 0 30px 0;
+  }
+  #part-one {
+	background-color: #20B2AA;
+  }
+  #part-two {
+	background-color: #F0E68C;
+  }
+  #part-three {
+	background-color: #e0d4b3;
+  }
+
+  .work {
+	display: flex;
+	margin-top: 120px;
+	margin-bottom: 120px;
+	margin-left: 40px;
+	margin-right: 40px;
+  }
+  .half-width {
+	width: 50%;
+	padding-left: 100px;
+	padding-right: 100px;
+  }
+  .Donation-Photo img {
+	width: 100%;
+	border: 2px solid white;
+	border-radius: 5px;
+  }
+  .Donation-Charity {
+	text-align: center;
+	
+  }
+  .Donation-Charity h2 {
+	font-size: 35px;
+	color: blue;
+  }
+  .Donation-Charity b {
+	font-size: 15px;
+  }
+  .Donation-Charity a {
+	border-radius: 7px;
+	background-color: #1e90ff;
+	padding: 10px 12px;
+	font-size: 17px;
+	color: white;
+	text-decoration: none;
+	transition: 0.4s;
+  }
+  .Donation-Charity a:hover {
+	background-color: #483d8b;
+  }
+
+  
+  h1 {
+	font-size: 60px;
+	margin: 0;
+	font-weight: 800;
+	padding: 10px 0;
+	color: black;
+  }
+  p {
+	font-size: 15px;
+	padding: 5px 0;
+	margin: 0;
+  }
+  #get-update {
+	text-align:center;
+	font-weight: 800;
+  }
+  #get-update h1 {
+	padding-bottom: 20px;
+  }
+  #get-update div {
+	width: 50%;
+	padding: 80px 0;
+	background-color: rgb(197, 213, 219);
+	margin: 0 auto;
+	margin-top: 20px;
+  }
+  #get-update div a {
+	text-decoration: none;
+	font-family: bold;
+	padding: 7px 7px;
+	background-color: rgba(0, 0, 255, 0.521);
+	color: white;
+	border-bottom-right-radius: 10px;
+	border-top-right-radius: 10px;
+  }
+  #get-update div input {
+	border: none;
+	width: 200px;
+	height: 30px;
+	padding: 0 20px;
+	background-color: rgb(205, 203, 203);
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+  }
+
+  footer {
+	background-color: #2f3f4e;
+	text-align: center;
+	padding: 50px 0;
+  }
+  
+  footer h2 {
+	color: rgb(245, 245, 245);
+	margin-bottom: 20px;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
